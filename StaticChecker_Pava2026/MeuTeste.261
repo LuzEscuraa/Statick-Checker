@@ -1,0 +1,24 @@
+/* Arquivo de teste para o Static Checker da linguagem Pava2026-1 */
+
+program MeuPrograma
+declarations
+    varType integer : contador, limite ;
+    varType real : media, soma ;
+    varType string : nome ;
+    varType boolean : ativo ;
+    varType integer [] : notas[5], idades[10]
+endDeclaracions
+functions
+    funcType integer : somaValores ( paramType integer : a, b )
+    {
+        return a + b
+    }
+    endFunction ;
+
+    funcType void : imprimirResultado ( ? )
+    {
+        print soma
+    }
+    endFunction
+endFunctions
+endProgram

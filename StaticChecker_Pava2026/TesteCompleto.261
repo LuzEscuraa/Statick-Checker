@@ -1,0 +1,41 @@
+// Segundo arquivo de teste - Static Checker Pava2026-1
+// Testa: comentário de linha, if/else, while, constantes (real, string, char),
+// operadores relacionais, números truncados e identificador longo
+
+program TesteCompleto
+declarations
+    varType integer : x, y, total ;
+    varType real : pi, resultado ;
+    varType string : mensagem ;
+    varType character : letra ;
+    varType boolean : encontrado ;
+    varType integer : umIdentificadorMuitoLongoQueDeveSerTruncadoPorPassarDeTrintaCaracteresValidos
+endDeclaracions
+functions
+    funcType integer : maiorValor ( paramType integer : x, y )
+    {
+        if ( x > y )
+        {
+            return x
+        }
+        else
+        {
+            return y
+        }
+        endIf
+    }
+    endFunction ;
+
+    funcType void : contarAte ( paramType integer : limite )
+    {
+        total := 0 ;
+        while ( total <= limite )
+        {
+            print total ;
+            total := total + 1
+        }
+        endWhile
+    }
+    endFunction
+endFunctions
+endProgram

@@ -1,0 +1,70 @@
+Código da Equipe: [Eq05]
+Componentes:
+[João Antonio Luz dos Santos]; [joaoantionio.santos@ucsal.edu.br]; [(71)99721-1113]
+[Guilherme Andrade Silva De Lacerda]; [guilhermeandrade.lacerda@ucsal.edu.br; [(71)98860-2565]
+[Pedro Lucas Azevedo Marinho]; pedro.marinho@ucsal.edu.br; [(71)98399-9777]
+[Diego Gabriel Pinheiro Damasceno]; [diego.damasceno@ucsal.edu.br]; [(71)98426-6975]
+
+RELATÓRIO DA TABELA DE SÍMBOLOS.
+Texto fonte analisado: MeuTeste.261
+
+Entrada: 1, Código: C01, Lexeme: MEUPROGRAMA,
+QtdCharsAntesTrunc: 11, QtdCharsDepoisTrunc: 11,
+TipoSimb: -, Linhas: (3).
+----------------------------------------------------------------
+Entrada: 2, Código: C01, Lexeme: CONTADOR,
+QtdCharsAntesTrunc: 8, QtdCharsDepoisTrunc: 8,
+TipoSimb: -, Linhas: (5).
+----------------------------------------------------------------
+Entrada: 3, Código: C01, Lexeme: LIMITE,
+QtdCharsAntesTrunc: 6, QtdCharsDepoisTrunc: 6,
+TipoSimb: -, Linhas: (5).
+----------------------------------------------------------------
+Entrada: 4, Código: C01, Lexeme: MEDIA,
+QtdCharsAntesTrunc: 5, QtdCharsDepoisTrunc: 5,
+TipoSimb: -, Linhas: (6).
+----------------------------------------------------------------
+Entrada: 5, Código: C01, Lexeme: SOMA,
+QtdCharsAntesTrunc: 4, QtdCharsDepoisTrunc: 4,
+TipoSimb: -, Linhas: (6, 20).
+----------------------------------------------------------------
+Entrada: 6, Código: C01, Lexeme: NOME,
+QtdCharsAntesTrunc: 4, QtdCharsDepoisTrunc: 4,
+TipoSimb: -, Linhas: (7).
+----------------------------------------------------------------
+Entrada: 7, Código: C01, Lexeme: ATIVO,
+QtdCharsAntesTrunc: 5, QtdCharsDepoisTrunc: 5,
+TipoSimb: -, Linhas: (8).
+----------------------------------------------------------------
+Entrada: 8, Código: C01, Lexeme: NOTAS,
+QtdCharsAntesTrunc: 5, QtdCharsDepoisTrunc: 5,
+TipoSimb: -, Linhas: (9).
+----------------------------------------------------------------
+Entrada: 9, Código: C06, Lexeme: 5,
+QtdCharsAntesTrunc: 1, QtdCharsDepoisTrunc: 1,
+TipoSimb: -, Linhas: (9).
+----------------------------------------------------------------
+Entrada: 10, Código: C01, Lexeme: IDADES,
+QtdCharsAntesTrunc: 6, QtdCharsDepoisTrunc: 6,
+TipoSimb: -, Linhas: (9).
+----------------------------------------------------------------
+Entrada: 11, Código: C06, Lexeme: 10,
+QtdCharsAntesTrunc: 2, QtdCharsDepoisTrunc: 2,
+TipoSimb: -, Linhas: (9).
+----------------------------------------------------------------
+Entrada: 12, Código: C01, Lexeme: SOMAVALORES,
+QtdCharsAntesTrunc: 11, QtdCharsDepoisTrunc: 11,
+TipoSimb: -, Linhas: (12).
+----------------------------------------------------------------
+Entrada: 13, Código: C01, Lexeme: A,
+QtdCharsAntesTrunc: 1, QtdCharsDepoisTrunc: 1,
+TipoSimb: -, Linhas: (12, 14).
+----------------------------------------------------------------
+Entrada: 14, Código: C01, Lexeme: B,
+QtdCharsAntesTrunc: 1, QtdCharsDepoisTrunc: 1,
+TipoSimb: -, Linhas: (12, 14).
+----------------------------------------------------------------
+Entrada: 15, Código: C01, Lexeme: IMPRIMIRRESULTADO,
+QtdCharsAntesTrunc: 17, QtdCharsDepoisTrunc: 17,
+TipoSimb: -, Linhas: (18).
+----------------------------------------------------------------
